@@ -1,0 +1,4 @@
+jira
+selenium
+keyring
+jira_dumper

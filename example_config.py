@@ -1,0 +1,10 @@
+firefox_install = r"L:\Path\To\firefox.exe"
+gecko_path = r"geckodriver.exe"
+username = "user1"
+project = "AOEU"
+jira_server = "https://url.to.jira.com"
+issue_jql = 'project = "AOEU" and updatedDate > startOfMonth()'
+jira_instance = "whatever_jira"
+maintenance_issue_type = "Issue"
+deployment_user = "user2"
+ehour_url = "https://url.to.ehour.com"
